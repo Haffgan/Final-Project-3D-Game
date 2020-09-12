@@ -1,3 +1,11 @@
+# You can try the game by downloading the ZIP file, unpacking it and chosing the file in following directory:
+Use your Right Mouse to move the Hero and arrow to rotate the Camera view. Please decrease your volume before playing (for some reason it is too loud).
+
+ ![](picsForReadme/1.jpg)
+
+(Sorry, it will take some time and about 100mb hard-drive space). 
+
+
 # Final-Project-3D-Game
 
 ## 1.	Game world
